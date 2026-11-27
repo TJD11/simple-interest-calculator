@@ -1,0 +1,38 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/13951
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/13951",
+  "id": 5526284367,
+  "node_id": "PR_kwDOPpkpv88AAAABSWRoTw",
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/13951",
+  "number": 13951,
+  "state": "closed",
+  "title": "Bug fix revert",
+  "user": {
+    "login": "TJD11",
+    "id": 180565867,
+    "html_url": "https://github.com/TJD11"
+  },
+  "head": {
+    "label": "TJD11:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "id": 1473613885,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "TJD11/mcino-Introduction-to-Git-and-GitHub",
+      "owner": {
+        "login": "TJD11"
+      },
+      "html_url": "https://github.com/TJD11/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "commits": 2,
+  "changed_files": 1
+}
